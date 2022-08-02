@@ -1,7 +1,8 @@
 # CV
-info-Trial
-FIrst file= cv
-Second file= Qualification
-third file= contact
-fourth file= technical
-fivth file= other
+info-Trial<br>
+FIrst file= cv; <br>
+Second file= Qualification; <br>
+third file= contact;<br>
+
+fourth file= technical ; <br>
+fivth file= other; <br>
